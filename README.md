@@ -1,3 +1,4 @@
+[![BLE-YC01](https://img.shields.io/github/release/jressel01/BLE-YC01/all.svg?style=plastic&label=Current%20release)](https://github.com/jressel01/BLE-YC01/)
 # BLE-YC01
 Home Assistant BLE Integration for BLE-YC01 Pool Monitor
 
